@@ -1,0 +1,6 @@
+{
+  "name": "Data Structure Tree Lab",
+  "description": "An interactive, educational platform to learn, visualize, and practice tree data structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
